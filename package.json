@@ -4,7 +4,11 @@
   "description": "this is for web testing",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "node index.js"
+=======
+    "start": "node index.js",
+>>>>>>> ed1d242619af67a0c1fb01368a6ad09a09b69e6a
     
   },
   "author": "",
